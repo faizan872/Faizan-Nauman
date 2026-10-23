@@ -8,6 +8,6 @@ Welcome to my repository! This project serves as a workspace and development env
 
 ## About
 This project is used for testing, learning, and collaborative development workflows.
-
+Updated via GitHub
 ---
 *Maintained with ❤️ by Juan Andrés Castro.*
